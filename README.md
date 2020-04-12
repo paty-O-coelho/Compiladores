@@ -1,13 +1,17 @@
 Analisador Léxico 
+
 Links:
+
 •	Vídeo (https://web.microsoftstream.com/video/fa8b9433-641d-43b8-89b4-bf035a82986a)
 
 Como baixar e executar:
+
 •	Requisitos: Anaconda para Python 3.7 (https://www.anaconda.com/distribution/) 
 
 •	Uso a partir do jupyter notebook já incluído com a instalação do Anaconda                       
 
 Descrição:
+
 •	Objetivo: criar um analisador léxico de uma calculadora com impressão em uma tabela de tokens
 
 •	Contexto de uso do programa: o programa funciona de maneira que o usuário, terá de dar a entrada com uma sequência, sendo ela uma expressão aritmética/expressão regular 
@@ -19,6 +23,7 @@ Descrição:
 •	Possível falha: O programa não conta com uma tabela dinâmica
 
 Testes:
+
 •	+ 1 * 2
 
 •	+ 5 ** 2 - ( 4 )
@@ -38,6 +43,7 @@ Linguagem, bibliotecas:
 •	Bibliotecas: import re, é relacionado a todo tipo de expressão regular no qual foi utilizada para identificação e pesquisa no programa. import pandas, utilizada para a execução e visualização da tabela de tokens
 
 Contribuidores:
+
 •	Antônia Patrícia Coelho Sampaio (https://github.com/paty-O-coelho)
 
 •	Matheus Felipe Buffon Falavigna (https://github.com/matheusfalavigna)
